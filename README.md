@@ -63,7 +63,7 @@ No measured results yet. Planned tests:
 - [ ] Telemetry dashboard
 
 ## Author
-Nisha Sherlin | ECE student, Chennai
+Nisha Sherlin | ECE + CSE student, Chennai
 Email: sherlin070504@gmail.com | [LinkedIn](https://www.linkedin.com/in/nisha-sherlin-r-7528a137a)
 
 ## License
